@@ -1,0 +1,42 @@
+#Progress_Status {
+  width: 80%;
+  background-color: #ddd;
+  border-radius:5px;
+
+}
+
+#myprogressBar {
+  width: 1%;
+  height: 28x;
+  background-color: rgb(151, 79, 188);
+  text-align: left;
+  line-height: 32px;
+  color: white;
+  border-radius:5px;
+
+}
+
+.add{
+  background-color: rgb(151, 79, 188);
+  color: white;
+  border-radius: 5px;
+  padding: 5px;
+  margin-top:10px;
+}
+
+.bar{
+  width: 80%;
+  height:30px;
+  background-color: white;
+  border-radius:5px;
+  margin-top:10px;
+  border-style: solid;
+  border-color: rgb(192, 110, 233);
+  color:black;
+}
+
+.btn{
+  float: right;
+  background-color: rgb(192, 110, 233);
+  color:white;
+}
